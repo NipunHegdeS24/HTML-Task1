@@ -1,0 +1,98 @@
+[
+    {
+        "Id": 1, 
+        "Name": "Nipun", 
+        "Age": 22, 
+        "Marks": 98
+    },
+    {
+        "Id": 2, 
+        "Name": "Shodhan", 
+        "Age": 21, 
+        "Marks": 96
+    },
+    {
+        "Id": 3, 
+        "Name": "Aarav", 
+        "Age": 23, 
+        "Marks": 95
+    },
+    {
+        "Id": 4, 
+        "Name": "Riya", 
+        "Age": 22, 
+        "Marks": 94
+    },
+    {
+        "Id": 5, 
+        "Name": "Aanya", 
+        "Age": 20, 
+        "Marks": 93
+    },
+    {
+        "Id": 6, 
+        "Name": "Kian", 
+        "Age": 24, 
+        "Marks": 92
+    },
+    {
+        "Id": 7, 
+        "Name": "Zara", 
+        "Age": 21, 
+        "Marks": 91
+    },
+    {
+        "Id": 8, 
+        "Name": "Vivaan", 
+        "Age": 22, 
+        "Marks": 90
+    },
+    {
+        "Id": 9, 
+        "Name": "Arjun", 
+        "Age": 23, 
+        "Marks": 89
+    },
+    {
+        "Id": 10, 
+        "Name": "Tara", 
+        "Age": 22, 
+        "Marks": 88
+    },
+    {
+        "Id": 11, 
+        "Name": "Ishaan", 
+        "Age": 20, 
+        "Marks": 87
+    },
+    {
+        "Id": 12, 
+        "Name": "Saanvi", 
+        "Age": 21, 
+        "Marks": 86
+    },
+    {
+        "Id": 13, 
+        "Name": "Kavya", 
+        "Age": 22, 
+        "Marks": 85
+    },
+    {
+        "Id": 14, 
+        "Name": "Reyansh", 
+        "Age": 24, 
+        "Marks": 84
+    },
+    {
+        "Id": 15, 
+        "Name": "Nia", 
+        "Age": 20, 
+        "Marks": 83
+    },
+    {
+        "Id": 16,
+        "Name": "Aditya", 
+        "Age": 21, 
+        "Marks": 78
+    }
+]
